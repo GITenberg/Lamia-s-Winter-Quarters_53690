@@ -1,0 +1,33 @@
+_repo: Lamia-s-Winter-Quarters_53690
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Elgood, George Samuel
+    birthdate: 1851
+    deathdate: 1943
+    gutenberg_agent_id: '49564'
+    url: http://www.gutenberg.org/2009/agents/49564
+creator:
+  author:
+    agent_name: Austin, Alfred
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '37643'
+    url: http://www.gutenberg.org/2009/agents/37643
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Austin
+description: ''
+gutenberg_issued: '2016-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53690'
+  lccn: '43029539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'PR'
+- GITenberg
+title: Lamia's Winter-Quarters
+url: http://www.gutenberg.org/ebooks/53690
